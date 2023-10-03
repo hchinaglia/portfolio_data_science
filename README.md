@@ -11,7 +11,7 @@ Neste notebook, iremos analisar os dados referentes à cidade de Dallas, e ver q
 [Link para o projeto completo](https://colab.research.google.com/drive/11tz72Jep7085zRDMWtd0BcFYxzZr2RhA?usp=sharing)
 
 **Links para me acharem:**
-* [Projeto no Medium](https://medium.com/@henriquechinaglia)
+* [Medium](https://medium.com/@henriquechinaglia)
 * [LinkedIn](https://www.linkedin.com/in/henrique-chinaglia-b7897564/)
 * [Instagram](https://www.instagram.com/henriquechinaglia/)
 
