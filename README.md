@@ -18,7 +18,7 @@ Neste notebook, iremos analisar os dados referentes à cidade de Dallas, e ver q
 
 ## Outros Projetos Meus:
 
-Business
+DevOps e Cloud
 * **[Lift & Shift + Modernização de Aplicação: Convertendo uma aplicação legado para rodar em containers no Google Kubernetes Engine (GKE) usando o Anthos](https://medium.com/@henriquechinaglia/lift-shift-modernização-de-aplicação-convertendo-uma-aplicação-legado-para-rodar-em-containers-f3235a8cab60)**
 
 * **[Implementação de comunicação privada em ambiente MultiCloud (AWS e GCP) de forma 100% automatizada usando o Terraform](https://medium.com/@henriquechinaglia/implementação-de-comunicação-privada-em-ambiente-multicloud-aws-e-gcp-de-forma-100-automatizada-94ec28cfdd72)**
